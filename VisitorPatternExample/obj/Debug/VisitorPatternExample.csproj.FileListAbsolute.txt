@@ -1,0 +1,6 @@
+c:\users\anchat\documents\visual studio 2015\Projects\DesignPatternsExamples\VisitorPatternExample\bin\Debug\VisitorPatternExample.exe.config
+c:\users\anchat\documents\visual studio 2015\Projects\DesignPatternsExamples\VisitorPatternExample\bin\Debug\VisitorPatternExample.exe
+c:\users\anchat\documents\visual studio 2015\Projects\DesignPatternsExamples\VisitorPatternExample\bin\Debug\VisitorPatternExample.pdb
+c:\users\anchat\documents\visual studio 2015\Projects\DesignPatternsExamples\VisitorPatternExample\obj\Debug\VisitorPatternExample.csprojResolveAssemblyReference.cache
+c:\users\anchat\documents\visual studio 2015\Projects\DesignPatternsExamples\VisitorPatternExample\obj\Debug\VisitorPatternExample.exe
+c:\users\anchat\documents\visual studio 2015\Projects\DesignPatternsExamples\VisitorPatternExample\obj\Debug\VisitorPatternExample.pdb
